@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: #efefef;
+    border: solid 0px red;
+	/*height: 200px;*/
+}
+
+#home {
+	background: #fcff4f;
+	height: 600px;
+	box-shadow: 0px 2px 5px 0 rgba(0,0,0,0.40);
+}
+
+#imagem-cabecalho{
+	margin: 100px 0px 0 400px;
+	box-shadow: 0px 2px 5px 0 rgba(0,0,0,0.60);
+    float: right;
+}
+
